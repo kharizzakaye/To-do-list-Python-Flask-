@@ -1,5 +1,5 @@
 # To-do-list
-A to do list web application created with Python, Flask, SQLite and SQLAlchemy.
+A to do list web application created with Python, Flask, and SQLite.
 
 
 ## Screenshot
